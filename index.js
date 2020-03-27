@@ -14,7 +14,7 @@ class Cart extends Component {
       url: "https://api.razorpay.com/v1/orders",
       headers: {
         "content-type": "application/json",
-        Authorization: "Basic YOUR_AUTH_CODE"
+        Authorization: "Basic YOUR_AUTH_CODE" // Generate your Auth code by using key id and key secret in postman
       },
       data: JSON.stringify({
         amount: 100,
