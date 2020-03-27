@@ -10,8 +10,8 @@ class Razorpay extends Component {
         style={styles.button}
         onPress={() => {
           var options = {
-            description: "Credits towards consultation",
-            image: "https://i.imgur.com/3g7nmJC.png",
+            description: "Credits towards consultation", // description
+            image: "https://i.imgur.com/3g7nmJC.png", // image 
             currency: "INR",
             key: this.props.key, // rzp_test_lpoFU3fTbYZDu3 Something of this type!
              amount: this.props.amount,
