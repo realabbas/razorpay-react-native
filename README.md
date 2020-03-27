@@ -13,3 +13,7 @@
 ## Troubleshooting
 
 - While building the project, minimum sdk version error may occur which can be solved by changing the minimun sdk version to 19 in the project level build.gradle file. For more reference see this issue [Razorpay React Native](https://github.com/razorpay/react-native-razorpay/issues/183)
+
+### Razorpay Docs
+
+[Razorpay SDK Android Integration Documentation](https://razorpay.com/docs/payment-gateway/react-native-integration/standard/android/)
