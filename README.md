@@ -1,4 +1,4 @@
-# Razorpay SDK Integration with React Native 
+# Example of Razorpay SDK Integration with React Native 
 
 ## Prerequisite
 
